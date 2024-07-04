@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>b3b5a3dc-69fd-44b5-8548-8b2b2d1ac9ad</ProjectGuid>
+    <ProjectGuid>80017da3-10c3-47a9-8249-fd782400aaa2</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Задание 5.py</StartupFile>
+    <StartupFile>Задание 6.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>День 2</Name>
-    <RootNamespace>День 2</RootNamespace>
+    <Name>День 3</Name>
+    <RootNamespace>День 3</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -27,7 +27,6 @@
     <Compile Include="Задание 4.py" />
     <Compile Include="Задание 5.py" />
     <Compile Include="Задание 6.py" />
-    <Compile Include="Задание 7.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
