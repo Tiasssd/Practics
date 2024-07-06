@@ -1,0 +1,11 @@
+# -*- coding: 1251 -*-
+file_name = input('¬ведите название файла: ')
+with open(file_name, 'r') as file:
+    lines = file.readlines()
+    сама€_длинна€_строка = ''
+    for line in lines:
+        if len(сама€_длинна€_строка) < len(line):
+            сама€_длинна€_строка = line
+    file_name = input('¬ведите название файла, в который нужно сохранить самое длинное предложение: ')
+    with open(file_name, 'w') as file_1:
+        file_1.write(сама€_длинна€_строка)
