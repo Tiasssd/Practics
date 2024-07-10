@@ -21,10 +21,6 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Задание 1.py" />
-    <Compile Include="Задание 2.py" />
-    <Compile Include="Задание 3.py" />
-    <Compile Include="Задание 4.py" />
     <Compile Include="Задания.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
