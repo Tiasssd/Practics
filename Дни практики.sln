@@ -17,6 +17,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "День 6", "День 6\Д
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "День 7", "День 7\День 7.pyproj", "{643CBDDD-71BB-4CB4-96F1-A1461E41F7F8}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "День 8", "День 8\День 8.pyproj", "{777F9EB6-A81F-4AD7-8C1B-72E9531CBFF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,8 @@ Global
 		{9C2F1F25-6EB2-475A-9DBF-D9449B9D0C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{643CBDDD-71BB-4CB4-96F1-A1461E41F7F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{643CBDDD-71BB-4CB4-96F1-A1461E41F7F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{777F9EB6-A81F-4AD7-8C1B-72E9531CBFF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{777F9EB6-A81F-4AD7-8C1B-72E9531CBFF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
